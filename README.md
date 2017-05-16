@@ -13,7 +13,7 @@
 
 ### Running Locally
 
-After above steps you should be able to run GitHub Pages locally. Install depdencies with the command `bundler install`
+After above steps you should be able to run GitHub Pages locally. Install dependencies with the command `bundler install`
 in the root of the project directory.<br>
 Note: If you get `zlib is missing; necessary for building libxml2` error when running `bundler install` command, you need to install zlib package. In short, you'd execute `sudo apt-get install zlib1g-dev`.
 
